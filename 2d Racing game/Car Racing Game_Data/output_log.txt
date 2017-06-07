@@ -1,0 +1,37 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     793 MB
+    Driver:   9.17.10.4229
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.596 seconds
+Platform assembly: C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SH Hridoy\Documents\2d Racing game\Car Racing Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.904178 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.577953 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.323086 ms (FindLiveObjects: 0.036947 ms CreateObjectMapping: 0.026684 ms MarkObjects: 0.242622 ms  DeleteObjects: 0.016421 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a18 -> priority: 1 
+  Thread -> id: 2e60 -> priority: 1 
